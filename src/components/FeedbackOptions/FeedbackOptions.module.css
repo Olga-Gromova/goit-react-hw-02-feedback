@@ -5,6 +5,7 @@
 .feedbackBtn {
     align-items: center;
     background-color: #fff;
+    border-radius: 5%;
     border: 2px solid #000;
     box-sizing: border-box;
     color: #000;
@@ -37,6 +38,7 @@
     border-color: #06f;
     color: #06f;
     fill: #06f;
+    box-shadow: #06f 0px 5px 15px;
 }
 
 .feedbackBtn:active {
